@@ -13,4 +13,4 @@ These are its (current) core principles:
 
 4- If no clear evidence based conclusion can be drawn, the proposition cannot be accepted. It is therefore advised to change the scope of the proposition and resubmit it.
 
-5- Only propositions that further humanity's wellfare and its scientific potential can be accepted. It can never favor science over wellfare and vice versa. Any other goal is out of TDM's scope.
+5- Only propositions that further humanity's wellfare and its scientific potential can be accepted. It can never favor science at the wellfare and vice versa. Any other goal is out of TDM's scope.
